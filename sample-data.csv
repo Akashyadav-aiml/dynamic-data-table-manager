@@ -1,0 +1,16 @@
+name,email,age,role,department,location
+John Doe,john.doe@example.com,28,Developer,Engineering,New York
+Jane Smith,jane.smith@example.com,32,Designer,Design,San Francisco
+Bob Johnson,bob.johnson@example.com,45,Manager,Management,Chicago
+Alice Brown,alice.brown@example.com,29,Developer,Engineering,Austin
+Charlie Davis,charlie.davis@example.com,35,Analyst,Data,Seattle
+Diana Wilson,diana.wilson@example.com,27,Developer,Engineering,Boston
+Eve Martinez,eve.martinez@example.com,31,Designer,Design,Los Angeles
+Frank Garcia,frank.garcia@example.com,42,Manager,Management,Miami
+Grace Lee,grace.lee@example.com,26,Developer,Engineering,Portland
+Henry Taylor,henry.taylor@example.com,38,Analyst,Data,Denver
+Ivy Chen,ivy.chen@example.com,30,Developer,Engineering,San Diego
+Jack White,jack.white@example.com,33,Designer,Design,Phoenix
+Karen Moore,karen.moore@example.com,41,Manager,Management,Houston
+Leo Kim,leo.kim@example.com,25,Developer,Engineering,Atlanta
+Maya Patel,maya.patel@example.com,36,Analyst,Data,Dallas
